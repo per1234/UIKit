@@ -23,10 +23,10 @@ UIViewController	KEYWORD1
 viewDidLoad	KEYWORD2
 viewWillAppear	KEYWORD2
 viewDidAppear	KEYWORD2
-viewWillDesappear KEYWORD2
-viewDidDesappear KEYWORD2
-viewWillUpdate KEYWORD2
-viewDidUpdate KEYWORD2
+viewWillDesappear	KEYWORD2
+viewDidDesappear	KEYWORD2
+viewWillUpdate	KEYWORD2
+viewDidUpdate	KEYWORD2
 
 #######################################
 # Instances (KEYWORD2)
